@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Final%20Project&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Jong%20Card&fontSize=90" />
 
 ## 목차
 ### [Skills](#skills)  |  [기획](#1-기획)  |  [목업](#2-목업디자인)
