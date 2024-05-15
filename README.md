@@ -1,4 +1,15 @@
-# final_project
+<h1>final_project</h1>
+
+## Skills
+### Back
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Front
+![Python](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Python]()
+![Python]()
+![Python]()
+![Python]()
+
 1학기 관통 프로젝트
 ## 기획
 ### 1. 메인페이지
