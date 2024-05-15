@@ -16,9 +16,10 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## 1. 기획
+> 카드 혜택 별 추천 웹 사이트
+
 ![기획 마인드맵](./READMEIMG/기획/mindmap.png)
 
-> 카드 혜택 별 추천 웹 사이트
 ### 주요 기능
 #### `1. 할인율 시각적으로 보여주기`
 - 각 혜택별로 얼마나 할인이 되는지를 대표 제품의 가격으로 확인할 수 있게 만들자!
